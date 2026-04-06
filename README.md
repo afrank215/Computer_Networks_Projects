@@ -1,1 +1,1 @@
-# Computer_Networks_Projects
+Simple TCP and UDP servers and clients that run via the Auburn University tux machines
